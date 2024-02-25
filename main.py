@@ -1,7 +1,7 @@
 
 print("what is your name?")
 
-print("Elian")gi
+print("Elian")
 print("Annie")
 print("Maysan")
 
